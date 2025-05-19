@@ -33,6 +33,8 @@ Skopiuj plik .dll do folderu Plugins na Twoim serwerze SCP:SL.
 Zrestartuj serwer.
 
 📁 Struktura projektu
+
+
 // Główne eventy:
 Scp096.AddingTarget      // Dodanie nowego celu do SCP-096
 Scp096.CalmingDown       // Próba zakończenia Rage
